@@ -1,3 +1,2 @@
-hello it containd 
-the deployment scerip  
-hi  t 
+hello it contain github commands 
+going tolearn git commands 
