@@ -1,4 +1,7 @@
+
 hello it containd 
 the deployment scerip  
-hi hello
-welcome to git 
+hi he
+hello it contain github commands 
+going tolearn git commands
+
